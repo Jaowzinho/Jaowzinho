@@ -13,7 +13,7 @@
 
   <!-- Estatísticas principais -->
   <a href="https://github.com/Jaowzinho">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Jaowzinho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&theme=dark" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Jaowzinho&show_icons=true&include_all_commits=true&count_private=true&icon_color=1062fe&border_color=1062fe&bg_color=000" />
     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaowzinho&layout=compact&langs_count=8&theme=dark" />
   </a>
 
